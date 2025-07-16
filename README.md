@@ -43,7 +43,7 @@ npm -v
 ### 1. Clone the Project
 
 ```bash
-git clone https://github.com/Locheir/Jarvis-Git-Clone.git
+git clone https://github.com/Locheir/Jarvis-Version-Control-System.git
 cd jarvis-vcs
 ```
 
