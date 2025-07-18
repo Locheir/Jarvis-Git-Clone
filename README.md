@@ -44,7 +44,7 @@ npm -v
 
 ```bash
 git clone https://github.com/Locheir/Jarvis-Version-Control-System.git
-cd jarvis-vcs
+cd Jarvis-Version-Control-System
 ```
 
 ### 2. Install Required Node Packages
